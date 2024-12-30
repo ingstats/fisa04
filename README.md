@@ -62,4 +62,6 @@ age = 22
 ```![링크가 깨졌을 때 안내메세지](이미지링크)```
 ![고양이](https://i.imgur.com/qKJqDaf.jpeg)
 
+age = 22
+
 rkd
