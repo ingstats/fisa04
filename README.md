@@ -59,5 +59,7 @@ age = 22
 ```[화면에 출력될 문자](링크)```
 [네이버](https://naver.com)
 
+```![링크가 깨졌을 때 안내메세지](이미지링크)```
+![고양이](https://i.imgur.com/qKJqDaf.jpeg)
 
 rkd
